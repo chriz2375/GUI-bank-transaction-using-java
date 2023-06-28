@@ -1,0 +1,21 @@
+Transaction Type,Withdraw by /Deposit by,Deposit to,Amount,Date
+Withdraw,Christian,Christian,10000,Wed Apr 03 00:38:24 CST 2019
+Deposit,Christian,Christian,100000,Wed Apr 03 00:42:15 CST 2019
+Deposit,Christian,Shine Star,3000,Wed Apr 03 00:42:15 CST 2019
+Withdraw,Christian,Christian,50000,Wed Apr 03 00:42:15 CST 2019
+Deposit,Christian,Christian,2000.0,Mon Dec 07 22:36:30 SGT 2020
+Deposit,Christian,Judel,2000.0,Mon Dec 07 22:36:30 SGT 2020
+Deposit,Christian,Judel,500.0,Mon Dec 07 22:36:30 SGT 2020
+Withdraw,Christian,Christian,9000.0,Mon Dec 07 22:36:30 SGT 2020
+Deposit,Christian Awayan,Christian Awayan,5000.0,Thu Dec 10 22:34:14 SGT 2020
+Deposit,Christian Awayan,Christian Awayan,2000.0,Thu Dec 10 22:34:14 SGT 2020
+Withdraw,Christian Awayan,Christian Awayan,3000.0,Thu Dec 10 22:34:14 SGT 2020
+Deposit,Christian Awayan,Chris,1000.0,Thu Dec 10 22:38:06 SGT 2020
+Deposit,christian,christian,1500.0,Tue Dec 15 23:23:02 SGT 2020
+Deposit,christian,christian,1500.0,Tue Dec 15 23:23:02 SGT 2020
+Withdraw,christian,christian,1000.0,Tue Dec 15 23:23:02 SGT 2020
+Deposit,Christian,Christian,1000.0,Fri Jan 08 22:10:41 SGT 2021
+Withdraw,Christian,Christian,500.0,Fri Jan 08 22:10:41 SGT 2021
+Deposit,Christian,christian,1500.0,Fri Jan 08 22:10:41 SGT 2021
+Deposit,CHRISTIAN,Christian,500.0,Sun Jun 26 15:18:04 SGT 2022
+Deposit,Chris,Christian Awayan,50000.0,Sun May 07 21:58:35 SGT 2023
